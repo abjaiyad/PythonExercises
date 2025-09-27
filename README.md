@@ -97,4 +97,6 @@ python exercise1.py
 
 - GitHub: [https://github.com/abjaiyad](https://github.com/abjaiyad)
 
+---
+
 *Made with ❤️ by Amad Bin Jaiyad*
