@@ -1,4 +1,4 @@
-# Exercise 1 Rectangle Area Calc
+# Rectangle Area Calc
 
 length = float(input("Enter the lenght: "))
 width = float(input("Enter the width: "))
