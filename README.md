@@ -30,6 +30,15 @@ Here are my Python programs with screenshots:
 **Shopping Cart Program**  
 <img src="screenshots/shopping_cart_program.png" alt="Shopping Cart Program" width="300"/>
 
+**Weight Conversion Program**  
+<img src="screenshots/weight_converter.png" alt="Weight Conversion Program" width="300"/>
+
+**Temperature Conversion Program**  
+<img src="screenshots/temperature_converter.png" alt="Temperature Conversion Program" width="300"/>
+
+**Python Calculator Program**  
+<img src="screenshots/python_calculator.png" alt="Python Calculator Program" width="300"/>
+
 </div>
 
 ---
