@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c9e87b8-27f6-43ee-844b-a2cf1cdbef07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.pythoncalculator.executor": "Run",
     "Python.temperatureconverter.executor": "Run",
+    "Python.validateuserinput.executor": "Run",
     "Python.weightconverter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,6 +83,8 @@
       <workItem from="1759337633293" duration="23000" />
       <workItem from="1759416601017" duration="65000" />
       <workItem from="1759419926134" duration="2927000" />
+      <workItem from="1759510296251" duration="53000" />
+      <workItem from="1759589952507" duration="2061000" />
     </task>
     <servers />
   </component>
@@ -92,6 +94,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Exercises$pythoncalculator.coverage" NAME="pythoncalculator Coverage Results" MODIFIED="1759420657985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Exercises$temperatureconverter.coverage" NAME="temperatureconverter Coverage Results" MODIFIED="1759422812180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Exercises$validateuserinput.coverage" NAME="validateuserinput Coverage Results" MODIFIED="1759598284317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Exercises$weightconverter.coverage" NAME="weightconverter Coverage Results" MODIFIED="1759421570497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
